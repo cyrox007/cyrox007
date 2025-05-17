@@ -30,4 +30,4 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 
 ### 📈 Статистика активности:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrox007&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrox007&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrox007&layout=compact&theme=radical&hide=html,css,scss)
