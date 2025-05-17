@@ -32,4 +32,14 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrox007&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrox007&layout=compact&theme=radical&hide=html,css,scss,blade)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
