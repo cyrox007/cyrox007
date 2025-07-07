@@ -48,14 +48,23 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 - WebSocket-интеграцией для мгновенных уведомлений
 - Частичное повторение функционала telegram
   
-🎥 **Video-Service**  
-[![View Code](https://img.shields.io/badge/View-Code-FF0000?style=for-the-badge)](https://github.com/cyrox007/video-service)  
-Сервис для работы с видео контентом на FastAPI с:  
-- Загрузкой и конвертацией видео  
-- Генерацией превью для видео  
+#### 🎥 Video-Service  
+[![View Code](https://img.shields.io/badge/View-Code-FF0000?style=for-the-badge)]( https://github.com/cyrox007/video-service )  
+Сервис для работы с видео-контентом на **Flask** с:  
+- Загрузкой и обработкой видео (пока в формате MP4)  
+- Генерацией превью из первого кадра  
 - Системой тегов и категорий  
-- RESTful API с документацией Swagger  
-- Асинхронной обработкой задач
+- Асинхронной обработкой задач через **Celery + Redis**  
+- Поддержкой PostgreSQL как основной БД  
+- REST-подобным API  
+
+##### 🔧 Технические детали:
+- Используется **PostgreSQL 15**
+- Для миграций — **Alembic**
+- Фронт реализован с использованием **JavaScript**
+- Формы обработки данных — через **Flask-WTF**
+- Обработка видео и изображений — через **FFmpeg / OpenCV (cv2)**  
+- Изображения оптимизируются и сохраняются в формате **WEBP**
   
 🧠 **killfake_ai**  
 [![View Code](https://img.shields.io/badge/View-Code-FF6600?style=for-the-badge)]( https://github.com/cyrox007/killfake_ai )  
