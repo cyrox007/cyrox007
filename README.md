@@ -5,10 +5,12 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 
 ### 🛠 Технологии и навыки:
 **Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-E34F26?style=flat&logo=css35&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-E34F26?style=flat&logo=scss5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![JQuery](https://img.shields.io/badge/JQuery-61DAFB?style=flat&logo=jquery&logoColor=black)
-![HTML5/SCSS](https://img.shields.io/badge/HTML5%2FSCSS-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Backend:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
