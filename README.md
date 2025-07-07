@@ -39,6 +39,7 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 - Canvas-рендерингом игрового поля  
 - Системой подсчета очков на сессиях  
 - Адаптивным геймплеем
+  
 📝 **Notes**  
 [![View Code](https://img.shields.io/badge/View-Code-007ACC?style=for-the-badge)](https://github.com/cyrox007/Notes)  
 Многофункциональная система управления на собственном PHP-фреймворке с:  
@@ -46,11 +47,13 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 - Системой обмена сообщениями в реальном времени  
 - WebSocket-интеграцией для мгновенных уведомлений
 - Частичное повторение функционала telegram
+  
 🚀 **FastAPI-prototype**  
 [![View Code](https://img.shields.io/badge/View-Code-009688?style=for-the-badge)](https://github.com/cyrox007/FastAPI-prototype)  
 Высокопроизводительный бэкенд на Python FastAPI с:  
 - Swagger-документацией API
 - Асинхронными endpoint'ами
+  
 **Dialog-system-on-WebSocket**  
 [![View Code](https://img.shields.io/badge/View-Code-FF6600?style=for-the-badge)](https://github.com/cyrox007/Dialog-system-on-WebSocket)  
   Прототип чата на WebSocket
