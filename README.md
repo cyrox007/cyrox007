@@ -16,6 +16,7 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
