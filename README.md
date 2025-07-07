@@ -48,11 +48,14 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 - WebSocket-интеграцией для мгновенных уведомлений
 - Частичное повторение функционала telegram
   
-🚀 **FastAPI-prototype**  
-[![View Code](https://img.shields.io/badge/View-Code-009688?style=for-the-badge)](https://github.com/cyrox007/FastAPI-prototype)  
-Высокопроизводительный бэкенд на Python FastAPI с:  
-- Swagger-документацией API
-- Асинхронными endpoint'ами
+🎥 **Video-Service**  
+[![View Code](https://img.shields.io/badge/View-Code-FF0000?style=for-the-badge)](https://github.com/cyrox007/video-service)  
+Сервис для работы с видео контентом на FastAPI с:  
+- Загрузкой и конвертацией видео  
+- Генерацией превью для видео  
+- Системой тегов и категорий  
+- RESTful API с документацией Swagger  
+- Асинхронной обработкой задач
   
 **Dialog-system-on-WebSocket**  
 [![View Code](https://img.shields.io/badge/View-Code-FF6600?style=for-the-badge)](https://github.com/cyrox007/Dialog-system-on-WebSocket)  
