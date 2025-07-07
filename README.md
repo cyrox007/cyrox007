@@ -57,9 +57,13 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 - RESTful API с документацией Swagger  
 - Асинхронной обработкой задач
   
-**Dialog-system-on-WebSocket**  
-[![View Code](https://img.shields.io/badge/View-Code-FF6600?style=for-the-badge)](https://github.com/cyrox007/Dialog-system-on-WebSocket)  
-  Прототип чата на WebSocket
+🧠 **killfake_ai**  
+[![View Code](https://img.shields.io/badge/View-Code-FF6600?style=for-the-badge)]( https://github.com/cyrox007/killfake_ai )  
+Исходный код системы распознавания фейковых новостей, включающий:  
+- Алгоритм обучения модели машинного обучения  
+- Датасет для обучения и тестирования  
+- Реализацию модели, способной определять истинность новости с точностью около **92%**  
+- Подготовку текстовых данных, векторизацию и использование современных подходов NLP
 
 ### 📈 Статистика активности:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrox007&show_icons=true&theme=radical)
