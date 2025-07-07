@@ -32,10 +32,28 @@ Full-stack разработчик. Увлекаюсь как фронтендо�
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ### 🏆 Избранные проекты:
-- [The-Game](https://cyrox007.github.io/The-Game/) - игровой проект на JavaScript
-- [Notes](https://github.com/cyrox007/Notes) - система на собственном PHP фреймворке для ведения заметок и обмена сообщениями через WebSocket
-- [FastAPI-prototype](https://github.com/cyrox007/FastAPI-prototype) - прототип на Python FastAPI
-- [Dialog-system-on-WebSocket](https://github.com/cyrox007/Dialog-system-on-WebSocket) - чат система на WebSocket
+🎮 **The-Game**  
+[![Open Project](https://img.shields.io/badge/Play-Online-4BC51D?style=for-the-badge)](https://cyrox007.github.io/The-Game/)  
+Полноценная браузерная игра на чистом JavaScript с:  
+- Объектно-ориентированной архитектурой  
+- Canvas-рендерингом игрового поля  
+- Системой подсчета очков на сессиях  
+- Адаптивным геймплеем
+📝 **Notes**  
+[![View Code](https://img.shields.io/badge/View-Code-007ACC?style=for-the-badge)](https://github.com/cyrox007/Notes)  
+Многофункциональная система управления на собственном PHP-фреймворке с:  
+- Персональными заметками и категориями  
+- Системой обмена сообщениями в реальном времени  
+- WebSocket-интеграцией для мгновенных уведомлений
+- Частичное повторение функционала telegram
+🚀 **FastAPI-prototype**  
+[![View Code](https://img.shields.io/badge/View-Code-009688?style=for-the-badge)](https://github.com/cyrox007/FastAPI-prototype)  
+Высокопроизводительный бэкенд на Python FastAPI с:  
+- Swagger-документацией API
+- Асинхронными endpoint'ами
+**Dialog-system-on-WebSocket**  
+[![View Code](https://img.shields.io/badge/View-Code-FF6600?style=for-the-badge)](https://github.com/cyrox007/Dialog-system-on-WebSocket)  
+  Прототип чата на WebSocket
 
 ### 📈 Статистика активности:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrox007&show_icons=true&theme=radical)
